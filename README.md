@@ -25,7 +25,6 @@ The project demonstrates how SQL can be used to:
 ## Technology
 
 - SQL Server
-- SQL Server Management Studio (SSMS)
 - SQL
 - Tableau
 
