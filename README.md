@@ -27,8 +27,7 @@ The project demonstrates how SQL can be used to:
 - SQL Server
 - SQL Server Management Studio (SSMS)
 - SQL
-- Tableau
-- Python / pandas
+- Tableau (in progress)
 
 ## Data Architecture
 
@@ -56,4 +55,4 @@ Analytics-ready views
 KPIs & trend analysis
        │
        ▼
-    Tableau
+    Tableau (in progress)
