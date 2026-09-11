@@ -27,7 +27,7 @@ The project demonstrates how SQL can be used to:
 - SQL Server
 - SQL Server Management Studio (SSMS)
 - SQL
-- Tableau (in progress)
+- Tableau
 
 ## Data Architecture
 
